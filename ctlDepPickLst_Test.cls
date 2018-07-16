@@ -1,6 +1,6 @@
 @isTest
 private class ctlDepPickLst_Test{
-   static testMethod void test_getCountries_UseCase1(){
+   static testMethod void test_getCountries_UseCase1000(){
     ctlDepPickLst obj01 = new ctlDepPickLst();
     obj01.country = 'test data';
     obj01.state = 'test data';
